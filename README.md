@@ -1,5 +1,5 @@
 # Project 1 - Todo Project
-# Project 2 - Country App
+# Project 2 - Country
 # Getting Started with Create React App
 
 ## Available Scripts
